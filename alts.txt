@@ -1,1 +1,1 @@
-Git commit -am "WTF is this?"alts.txt
+Programming is just writing instructions for a very dumb computer.Git commit -am "WTF is this?"alts.txt
