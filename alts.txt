@@ -1,1 +1,1 @@
-Code like you care.Software development is 90% Googling and 10% typing.Programming is just writing instructions for a very dumb computer.Git commit -am "WTF is this?"alts.txt
+When in doubt, refactor.Code like you care.Software development is 90% Googling and 10% typing.Programming is just writing instructions for a very dumb computer.Git commit -am "WTF is this?"alts.txt
